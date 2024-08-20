@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, #536493,#FFF1DB);}
+    h1 { text-align: center; font-family: 'Roboto Serif'; font-size: 55px; background-color: #c5705dc8;}
+    h2 { text-align: center; font-size: 40px; background-color: #d4bdacdb;}
+    h3 { text-align:center; font-size: 40px; background-color: #800000b9;}
+    h4 { text-align: center; font-family: 'Playwrite Ísland'cursive; font-size: medium;}
+    p{ font-size: large; text-align: justify;
+        border: 2px solid #EF5A6F;
+        padding-top: 16px;
+        padding-right: 25px;
+        padding-bottom: 16px;
+        padding-left: 25px;
+    margin-top: auto;
+margin-right: 15px;
+margin-bottom: auto;
+margin-left: 15px;}
+ol{ border: 2px solid #800000;
+    padding-top: 16px;
+    padding-right: 25px;
+    padding-bottom: 16px;
+    padding-left: 25px;
+margin-top: auto;
+margin-right: 15px;
+margin-bottom: auto;
+margin-left: 15px;}
+div {text-align: center;}
+.bordered-image { border: 2px black; border-style: ridge ;}
+.custum-list li::marker { color: #536493;}
+.container { text-align: justify;}
