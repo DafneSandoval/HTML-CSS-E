@@ -1,0 +1,12 @@
+body { background-color: #f4f5e6;}
+h1{ background-color: #1A2130 ; font-family: 'Times New Roman', Times, serif; font-size: 45px;
+    text-align: center; color: whitesmoke;
+}
+h2{ font-family:'Roboto Slab'; font-style: inherit; font-size: xx-large; 
+    background-color:  #31304D; color: whitesmoke; text-align: center;} 
+p { font-family:'Roboto'; font-size: medium; text-align: justify;}
+div { text-align: center;
+border: #1A2130; border-style: solid; padding: 1px; margin: 1px}
+ul { text-align: justify;}
+.bordered-image { border: 2px #83B4FF; border-style: solid;}
+.custum-list li::marker { color: #83B4FF;}

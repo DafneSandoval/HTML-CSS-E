@@ -1,0 +1,17 @@
+body{ background-image: url(https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150435940.jpg?w=826&t=st=1715667351~exp=1715667951~hmac=8cd0ad42bef8bfccfa0d1cc17fae6b47358ffd020e5ba57b2f4f942cc2da8fd2);
+background-size: cover; background-repeat: no-repeat;}
+h1 { text-align: center; text-decoration: underline; text-decoration-color: #B31312; text-decoration-thickness: 3px; background-color: #FFD0D0;
+font-family: 'Tiny5', monospace; font-size: 50px;}
+p { text-align: center; font-family: 'Times New Roman', Times, serif; font-size: x-large; 
+
+    margin: 100px;}
+h2 { background-color: #FCE2DB ;text-align: center; font-family: 'Roboto Slab', fantasy; font-size: 34px;
+    border: 3px outset #E1AFD1;
+    padding-top: 16px;
+    padding-right: 25px;
+    padding-bottom: 16px;
+    padding: 25px;
+    margin-top: 150px;
+    margin-right: 300px;
+    margin-bottom: 150px;
+    margin-left: 300px;}

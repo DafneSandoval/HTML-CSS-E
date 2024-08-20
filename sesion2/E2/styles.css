@@ -1,0 +1,9 @@
+body { background-color: #F0ECE5;}
+h1 { background-color: #161A30; color: whitesmoke;
+    font-family: 'Bona Nova SC'; font-size: 50px; text-align: center;}
+h2 { background-color: #31304D; color: #B6BBC4;
+    font-family: 'Times New Roman', Times, serif; font-size: x-large; text-align: center;}
+p {font-family: 'Roboto'; font-size: medium;
+text-align: justify;} 
+div {text-align: center }
+.imagen-con-marco { border: 5px double, #B6BBC4; padding: 2px; margin: auto;}

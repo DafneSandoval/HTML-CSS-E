@@ -1,0 +1,23 @@
+body {background-color: #F4E185 ;}
+h1 { font-family:'New Amsterdam'; font-style: normal; font-size: 50px;
+    text-align: center; color:#F3950D ; text-decoration: overline #A3423C ;
+    border: 4px, #E14D2A; border-style: outset;}
+h2 { font-family:'Moderustic', cursive; font-size: xx-large; 
+}
+h3 { font-family:'Kalnia Glaze'; font-style: inherit; font-size: x-large;}
+h4 { font-family:'Edu Australia VIC WA NT Hand'; font-style: italic; font-size: large;
+    text-align: left; }
+h5 { font-family:'Baskervville SC'; font-style: normal; font-size: medium;
+    text-align: justify;}
+h6 { font-family: Verdana, Geneva, Tahoma, sans-serif ; font-size: small;
+    text-align: end; color: #0F2C67;
+    border: 3px, #DE834D ; border-style: double;
+    padding: 10px;
+    margin-left: 1750px;}
+p {font-family: Arial, Helvetica, sans-serif; font-size: 25px; 
+   text-align: center; 
+   border: 2px, #F76E11 ; border-style: dotted;
+   padding: 10px; margin: 50px;} 
+   div {text-align: center; mix-blend-mode: multiply;}
+   .image-wrapper img  {mix-blend-mode: multiply; background-color: rgba(236, 230, 230, 0.637) ; 
+    filter: contrast( 120%);}

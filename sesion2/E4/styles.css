@@ -1,0 +1,13 @@
+body { background-color:#F4DFC8 ; border: 2px solid #AF8260;
+    padding: auto;
+margin: auto;}
+h1{ background-color: #F4EAE0;
+    font-size: 50px; font-family: 'Playwrite Deutschland Vereinfachte Ausgangsschrift', cursive;
+    }
+h2 { font-size: x-large; font-family: Arial, Helvetica, monospace; background-color: #677D6A
+}
+ul { font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif; 
+     list-style-type: circle; color: #803D3B; 
+     }
+ol { font-size: medium; font-family: Georgia, 'Times New Roman', Times, serif;}
+.imagen-derecha { float: right; margin-left: 60px; border: 2px double, #322C2B; margin: 20px;} 
